@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔬I'm a structural biologist working on re-engineering RNA binding proteins.
+- 💻 I am committed to spreading the good word of `R` to other wet-lab biologists.
+- 📹 I run a [youtube channel](https://youtube.com/c/bradyjohnston) teaching other biochemists 3D modelling in Blender
+- 🖼 Working on a course on good scientific poster design and ethos
+- 🐤 Reach me on [twitter](https://twitter.com/bradyajohnston) or my [website](https://bradyajohnston.github.io).
+
 <!--
 **BradyAJohnston/bradyajohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
