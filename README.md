@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Packages: [![Metacran
+Checkout the pacakges I've Made:
+
+[{r3dmol}](https://github.com/swsoyee/r3dmol)  [![Metacran
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/r3dmol)](https://cran.r-project.org/package=r3dmol)
