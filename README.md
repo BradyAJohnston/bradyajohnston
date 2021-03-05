@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Packages: [![Metacran
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/r3dmol)](https://cran.r-project.org/package=r3dmol)
