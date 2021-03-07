@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 
 Checkout the pacakges I've Made:
 
-[{r3dmol}](https://github.com/swsoyee/r3dmol)     [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/r3dmol)](https://cran.r-project.org/package=r3dmol)
+ - [{r3dmol}](https://github.com/swsoyee/r3dmol) - 🧬 An R package for visualizing molecular data in 3D
+ 
+ [![CRAN
+status](https://www.r-pkg.org/badges/version/r3dmol)](https://CRAN.R-project.org/package=r3dmol) 
+[![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/r3dmol)](https://cran.r-project.org/package=r3dmol)
