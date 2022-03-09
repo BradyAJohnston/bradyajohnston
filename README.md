@@ -19,5 +19,3 @@ status](https://www.r-pkg.org/badges/version/r3dmol)](https://CRAN.R-project.org
 
      [![CRAN status](https://www.r-pkg.org/badges/version/figpatch)](https://CRAN.R-project.org/package=figpatch)
      [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/figpatch)](https://cran.r-project.org/package=figpatch)
-
-![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyajohnston&show_icons=true&theme=dark)
