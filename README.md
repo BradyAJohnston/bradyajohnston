@@ -8,9 +8,6 @@
 - 🐤 Reach me on [twitter](https://twitter.com/bradyajohnston) or my [website](https://bradyajohnston.github.io).
 
 Checkout the pacakges I've Made:
- - [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) - A plugin for quickly importing [`.pdb`](https://www.rcsb.org/) and other structure files into Blender for visualisation of structures and molecular dynamics trajectories.<br><br>
-<img src="https://repository-images.githubusercontent.com/485261976/e7df465c-d23e-4dff-aa49-1ae7e44d8274" height=250>  <img src="https://github.com/BradyAJohnston/MolecularNodes/blob/main/img/atp-animation-demo.gif" height=250>
-
  - [{r3dmol}](https://github.com/swsoyee/r3dmol) - 🧬  An R package for visualizing molecular data in 3D
  
     [![CRAN
@@ -21,3 +18,6 @@ status](https://www.r-pkg.org/badges/version/r3dmol)](https://CRAN.R-project.org
 
      [![CRAN status](https://www.r-pkg.org/badges/version/figpatch)](https://CRAN.R-project.org/package=figpatch)
      [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/figpatch)](https://cran.r-project.org/package=figpatch)
+
+- [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) - A plugin for quickly importing [`.pdb`](https://www.rcsb.org/) and other structure files into Blender for visualisation of structures and molecular dynamics trajectories.<br><br>
+<img src="https://github.com/BradyAJohnston/MolecularNodes/blob/main/img/atp-animation-demo.gif" height=400>
