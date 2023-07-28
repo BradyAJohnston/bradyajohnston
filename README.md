@@ -23,6 +23,8 @@ status](https://www.r-pkg.org/badges/version/r3dmol)](https://CRAN.R-project.org
 ## Blender Addons
 [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) - A plugin for quickly importing [`.pdb`](https://www.rcsb.org/) and other structure files into Blender for visualisation of structures and molecular dynamics trajectories. See the talk I gave at the Blender conference below.
 
+<a href="https://www.github.com/bradyajohnston/MolecularNodes/releases"><img src="https://img.shields.io/github/v/release/bradyajohnston/molecularnodes" alt="Badge displaying license, which is MIT." style="height:20px"/></a> <a href="https://www.github.com/bradyajohnston/MolecularNodes/releases"><img src="https://img.shields.io/github/downloads/BradyAJohnston/MolecularNodes/total.svg" alt="Repo total downloads count." style="height:20px"/></a> <a href="https://www.buymeacoffee.com/bradyajohnston"><img src="https://img.shields.io/github/license/bradyajohnston/molecularnodes" alt="Badge displaying license, which is MIT." style="height:20px"/></a> <a href="https://www.buymeacoffee.com/bradyajohnston"><img src="https://img.shields.io/github/stars/bradyajohnston/molecularnodes?style=social" alt="Badge displaying count of GitHub stars." style="height:20px"/></a>
+
 [![image](https://user-images.githubusercontent.com/36021261/211250173-3aacdac2-d78a-4d42-96a0-032ff0f5657f.png)](https://www.youtube.com/watch?v=adhTmwYwOiA&t=1s)
 
 
